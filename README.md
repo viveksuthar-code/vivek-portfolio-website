@@ -47,7 +47,7 @@ This is my personal brand and portfolio website — a space where I’m building
 
 ---
 
-## 📸 Preview (Optional)
+## 📸 Preview
 
 ![vivek-portfolio-website vercel app_](https://github.com/user-attachments/assets/d03ad64b-25f8-4c18-b8bd-36b97fbb6c65)
 
